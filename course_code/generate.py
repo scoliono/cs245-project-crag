@@ -92,8 +92,9 @@ if __name__ == "__main__":
 
     parser.add_argument("--model_name", type=str, default="vanilla_baseline",
                         choices=["vanilla_baseline",
-                                 "rag_baseline"
+                                 "rag_baseline",
                                  # add your model here
+                                 "retrobust_baseline",
                                  ],
                         )
 
@@ -101,6 +102,9 @@ if __name__ == "__main__":
                         choices=["meta-llama/Llama-3.2-3B-Instruct",
                                  "google/gemma-2-2b-it",
                                  # can add more llm models here
+                                 "meta-llama/Llama-3.2-1B-Instruct",
+                                 "TheBloke/Llama-2-13B-chat-AWQ",
+                                 "TheBloke/Llama-2-13B-chat-GPTQ",
                                  ])
     parser.add_argument("--is_server", action="store_true", default=False,
                         help="Whether we use vLLM deployed on a server or offline inference.")
@@ -132,6 +136,9 @@ if __name__ == "__main__":
         model = RAGModel(llm_name=llm_name, is_server=args.is_server, vllm_server=args.vllm_server)
     # elif model_name == "your_model":
     #     add your model here
+    elif model_name == "retrobust_baseline":
+        from retrobust_baseline import RetRobustNQModel
+        model = RetRobustNQModel(llm_name=llm_name, is_server=args.is_server, vllm_server=args.vllm_server)
     else:
         raise ValueError("Model name not recognized.")
 
