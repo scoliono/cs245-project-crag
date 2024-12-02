@@ -81,17 +81,32 @@ if __name__ == "__main__":
                                  "rag_baseline",
                                  # add your model here
                                  "retrobust_baseline",
+                                 "retrobust_plusplus",
                                  ],
                         )
 
-    parser.add_argument("--llm_name", type=str, default="meta-llama/Llama-3.2-3B-Instruct",
+    # used to locate generations
+    parser.add_argument("--llm_name", type=str, default="meta-llama/Llama-3.2-1B-Instruct",
                         choices=["meta-llama/Llama-3.2-3B-Instruct",
                                  "google/gemma-2-2b-it",
-                                 "meta-llama/Llama-3.2-1B-Instruct"
+                                 "meta-llama/Llama-3.2-1B-Instruct",
                                  # can add more llm models here
                                  "TheBloke/Llama-2-13B-chat-AWQ",
                                  "TheBloke/Llama-2-13B-chat-GPTQ",
+                                 "scoliono/retrobust_plusplus_f16",
                                  ])
+
+
+    # used to do actual evaluations
+    parser.add_argument("--eval_llm_name", type=str, default="meta-llama/Llama-3.2-1B-Instruct",
+                        choices=["meta-llama/Llama-3.2-3B-Instruct",
+                                 "google/gemma-2-2b-it",
+                                 "meta-llama/Llama-3.2-1B-Instruct",
+                                 # can add more llm models here
+                                 "TheBloke/Llama-2-13B-chat-AWQ",
+                                 "TheBloke/Llama-2-13B-chat-GPTQ",
+                                 "scoliono/retrobust_plusplus_f16",])
+
     parser.add_argument("--is_server", action="store_true", default=False,
                         help="Whether we use vLLM deployed on a server or offline inference.")
     parser.add_argument("--vllm_server", type=str, default="http://localhost:8088/v1",
@@ -107,8 +122,8 @@ if __name__ == "__main__":
     dataset = dataset_path.split("/")[0]
     dataset_path = os.path.join("..", dataset_path)
 
-    llm_name = args.llm_name
-    _llm_name = llm_name.split("/")[-1]
+    llm_name = args.eval_llm_name       # eval model
+    _llm_name = args.llm_name.split("/")[-1] # gen model directory
 
     # init evaluation model
     from evaluation_model import EvaluationModel

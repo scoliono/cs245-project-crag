@@ -285,6 +285,9 @@ class RetRobustNQModel:
         # Prepare formatted prompts from the LLM        
         formatted_prompts = self.format_prompts(queries, query_times, batch_retrieval_results)
 
+        stop_char = '#'
+        stop_token = self.tokenizer.convert_tokens_to_ids(stop_char)
+
         # Generate responses via vllm
         # note that here self.batch_size = 1
         if self.is_server:
@@ -296,8 +299,12 @@ class RetRobustNQModel:
                 temperature=0.1,  # randomness of the sampling
                 # skip_special_tokens=True,  # Whether to skip special tokens in the output.
                 max_tokens=50,  # Maximum number of tokens to generate per output sequence.
+                stop_tokens=[stop_token]  # Stop on the first '#'
             )
-            answers = [response.choices[0].message.content]
+            answer = response.choices[0].message.content
+            # strip '#\n' that may be at the end of the response
+            answer = answer.strip()[:-1]
+            answers = [answer]
         else:
             responses = self.llm.generate(
                 formatted_prompts,
@@ -308,7 +315,7 @@ class RetRobustNQModel:
                     skip_special_tokens=True,  # Whether to skip special tokens in the output.
                     max_tokens=50,  # Maximum number of tokens to generate per output sequence.
                 ),
-                use_tqdm=False
+                use_tqdm=False,
             )
             answers = []
             for response in responses:
@@ -367,12 +374,11 @@ Context1: April 1961: Yuri Gagarin from the Soviet Union was the first human in 
 Question: when was the first person sent to space
 Are follow up questions needed here: No.
 So the final answer is: 12 April 1961
-#
-"""
+#"""
             
                 # Format the top sentences as references in the model's prompt template.
                 for snippet_idx, snippet in enumerate(retrieval_results):
-                    references += f"Context{snippet_idx+1}: {snippet.strip()}\n"
+                    references += f"\nContext{snippet_idx+1}: {snippet.strip()}"
 
             else:
                 # Figure 8: The SA-NR prompt used in NQ experiments.
@@ -401,17 +407,20 @@ So the final answer is: Randy Newman
 Question: when was the first person sent to space
 Are follow up questions needed here: No.
 So the final answer is: 12 April 1961
-#
-"""
+#"""
             
             # Limit the length of references to fit the model's input size.
             references = references[:MAX_CONTEXT_REFERENCES_LENGTH]
 
-            user_message += f"""{references}Question: {query}
+            user_message += f"""{references}\nQuestion: {query}
 Are follow up questions needed here: No.
 So the final answer is: """
             
 
+            # we're not using an instruct/chat model here, so just concatenate the text
+
+            return system_prompt + "\n" + user_message
+"""
             if self.is_server:
                 # there is no need to wrap the messages into chat when using the server
                 # because we use the chat API: chat.completions.create
@@ -432,5 +441,4 @@ So the final answer is: """
                         add_generation_prompt=True,
                     )
                 )
-
-        return formatted_prompts
+"""

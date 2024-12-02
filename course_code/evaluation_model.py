@@ -18,7 +18,7 @@ VLLM_GPU_MEMORY_UTILIZATION = 0.85 # TUNE THIS VARIABLE depending on the number 
 #### CONFIG PARAMETERS END---
 
 class EvaluationModel:
-    def __init__(self, llm_name="meta-llama/Llama-3.2-3B-Instruct", is_server=False, vllm_server=None, max_retries=10):
+    def __init__(self, llm_name="meta-llama/Llama-3.2-1B-Instruct", is_server=False, vllm_server=None, max_retries=10):
         """
         Initialize your model(s) here if necessary.
         This is the constructor for your DummyModel class, where you can set up any
