@@ -1,0 +1,797 @@
+question,text,10/Random
+Question: what is the name of the island in jurassic park,"Context1: Jurassic Park: The title 'Jurassic Park' refers to the fictional island owned by the character John Hammond where dinosaurs are genetically engineered and displayed for visitors. The island is named Isla Nublar and is located near Costa Rica.
+Question: what is the name of the island in jurassic park
+Are follow up questions needed here: No.
+So the final answer is: Isla Nublar ###","[[(False, False)]]"
+Question: when was serena williams born,"Context1: Serena Williams: Serena Jameka Williams, born September 26, 1981, is an American professional tennis player and former world No. 1 in women's single tennis. She has won 23 Grand Slam singles titles.
+Question: when was serena williams born
+Are follow up questions needed here: No.
+So the final answer is: September 26, 1981 ###","[[(False, False)]]"
+Question: when was the great gatsby published,"Context1: The Great Gatsby: Published in 1925, The Great Gatsby is a novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.
+Question: when was the great gatsby published
+Are follow up questions needed here: No.
+So the final answer is: 1925 ###","[[(False, False)]]"
+Question: who was the third president of the united states,"Context1: Thomas Jefferson: Thomas Jefferson was an American statesman, diplomat, lawyer, architect, and Founding Father who served as the third president of the United States from 1801 to 1809. He is known for drafting the Declaration of Independence.
+Question: who was the third president of the united states
+Are follow up questions needed here: No.
+So the final answer is: Thomas Jefferson ###","[[(False, False)]]"
+Question: who is the eiffel tower named after,"Context1: Eiffel Tower: The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.
+Question: who is the eiffel tower named after
+Are follow up questions needed here: No.
+So the final answer is: Gustave Eiffel ###","[[(False, False)]]"
+Question: when was microsoft windows first released,"Context1: Microsoft Windows: Microsoft Windows, commonly referred to as Windows, is a group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft. It was first released on November 20, 1985.
+Question: when was microsoft windows first released
+Are follow up questions needed here: No.
+So the final answer is: November 20, 1985 ###","[[(False, False)]]"
+Question: who was the first woman to win a nobel prize,"Context1: Marie Curie: Marie Skłodowska Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize and the only person to win a Nobel in two different sciences.
+Question: who was the first woman to win a nobel prize
+Are follow up questions needed here: No.
+So the final answer is: Marie Curie ###","[[(False, False)]]"
+Question: who composed the music for the lion king,"Context1: The Lion King: Elton John is among the artists who contributed to the soundtrack of The Lion King, composing classics including ""Circle of Life"" and ""Can You Feel the Love Tonight"" with lyricist Tim Rice.
+Question: who composed the music for the lion king
+Are follow up questions needed here: No.
+So the final answer is: Elton John ###","[[(False, False)]]"
+Question: who developed java,"Context1: Java Programming Language: Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It was originally developed by James Gosling at Sun Microsystems and released in 1995.
+Question: who developed java
+Are follow up questions needed here: No.
+So the final answer is: James Gosling ###","[[(False, False)]]"
+Question: when did world war ii start,"Context1: World War II: World War II was a global war that lasted from 1939 to 1945. It involved the vast majority of the world's countries—including all of the great powers—eventually forming two opposing military alliances: the Allies and the Axis.
+Question: when did world war ii start
+Are follow up questions needed here: No.
+So the final answer is: 1939 ###","[[(False, False)]]"
+Question: who painted the mona lisa,"Context1: The Mona Lisa: The Mona Lisa is an oil painting by Italian artist, inventor, and writer Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it has been described as ""the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world.""
+Question: who painted the mona lisa
+Are follow up questions needed here: No.
+So the final answer is: Leonardo da Vinci ###","[[(False, False)]]"
+Question: where is mount everest located,"Context1: Mount Everest: Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas. The China–Nepal border runs across its summit point.
+Question: where is mount everest located
+Are follow up questions needed here: No.
+So the final answer is: On the China-Nepal border ###","[[(False, False)]]"
+Question: what did albert einstein theorize,"Context1: Albert Einstein: Albert Einstein was a theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics. His work is also known for its influence on the philosophy of science.
+Question: what did albert einstein theorize
+Are follow up questions needed here: No.
+So the final answer is: Theory of relativity ###","[[(False, False)]]"
+Question: where is shakespeare's hamlet set,"Context1: Hamlet: Hamlet is a tragedy written by William Shakespeare at an uncertain date between 1599 and 1601. It tells the story of Prince Hamlet, and is set in Denmark.
+Question: where is shakespeare's hamlet set
+Are follow up questions needed here: No.
+So the final answer is: Denmark ###","[[(False, False)]]"
+Question: where is mount kilimanjaro located,"Context1: Mount Kilimanjaro: Mount Kilimanjaro is a dormant volcano in Tanzania. It is the highest mountain in Africa and rises approximately 4,900 meters (16,100 ft) from its base to 5,895 meters (19,341 ft) above sea level.
+Question: where is mount kilimanjaro located
+Are follow up questions needed here: No.
+So the final answer is: Tanzania ###","[[(False, False)]]"
+Question: when were the beatles formed,"Context1: The Beatles: Formed in Liverpool in 1960, the Beatles were a rock band that became one of the most successful and critically acclaimed groups in the history of music. The group consisted of John Lennon, Paul McCartney, George Harrison, and Ringo Starr.
+Question: when were the beatles formed
+Are follow up questions needed here: No.
+So the final answer is: 1960 ###","[[(False, False)]]"
+Question: when was to kill a mockingbird published,"Context1: To Kill a Mockingbird: Published in 1960, To Kill a Mockingbird is a novel by Harper Lee about growing up in the racially charged South during the Great Depression.
+Question: when was to kill a mockingbird published
+Are follow up questions needed here: No.
+So the final answer is: 1960 ###","[[(False, False)]]"
+Question: when was the hubble space telescope launched,"Context1: The Hubble Space Telescope: The Hubble Space Telescope is a large, space-based observatory, which has revolutionized astronomy since its launch in 1990 by providing unprecedented images of space and by allowing scientists to explore planets, stars, and galaxies.
+Question: when was the hubble space telescope launched
+Are follow up questions needed here: No.
+So the final answer is: 1990 ###","[[(False, False)]]"
+Question: who became emperor of the french after the french revolution,"Context1: Napoleon Bonaparte: Napoleon Bonaparte was a French military leader who rose to prominence during the French Revolution and led several successful campaigns during the Revolutionary Wars. He became Emperor of the French and dominated European and global affairs for more than a decade.
+Question: who became emperor of the french after the french revolution
+Are follow up questions needed here: No.
+So the final answer is: Napoleon Bonaparte ###","[[(False, False)]]"
+Question: who painted starry night,"Context1: Van Gogh: Vincent van Gogh was a Dutch Post-Impressionist painter who, after a decade of failed attempts, climaxed his work with Starry Night, painted just months before his tragic death.
+Question: who painted starry night
+Are follow up questions needed here: No.
+So the final answer is: Vincent van Gogh ###","[[(False, False)]]"
+Question: who invented coca-cola,"Context1: Coca-Cola: Coca-Cola, or Coke, is a carbonated soft drink manufactured by the Coca-Cola Company. Originally created in the late 19th century by John Stith Pemberton as a temperance drink, it was initially intended as a patent medicine.
+Question: who invented coca-cola
+Are follow up questions needed here: No.
+So the final answer is: John Stith Pemberton ###","[[(False, False)]]"
+Question: when did the titanic sink,"Context1: The Titanic: The RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean in 1912 after striking an iceberg during her maiden voyage from Southampton to New York City.
+Question: when did the titanic sink
+Are follow up questions needed here: No.
+So the final answer is: 1912 ###","[[(False, False)]]"
+Question: who founded spacex,"Context1: SpaceX: SpaceX is an American aerospace manufacturer and space transportation company founded by Elon Musk in 2002 with the goal of reducing space transportation costs to enable the colonization of Mars.
+Question: who founded spacex
+Are follow up questions needed here: No.
+So the final answer is: Elon Musk ###","[[(False, False)]]"
+Question: who invented the first successful airplane,"Context1: The Wright Brothers: The Wright brothers, Orville and Wilbur, were two American aviation pioneers who are generally credited with inventing, building, and flying the world's first successful motor-operated airplane.
+Question: who invented the first successful airplane
+Are follow up questions needed here: No.
+So the final answer is: The Wright brothers ###","[[(False, False)]]"
+Question: where is the colosseum located,"Context1: The Colosseum: The Colosseum, an oval amphitheater in the center of the city of Rome, Italy, is the largest ancient amphitheater ever built, and is still the largest standing amphitheater in the world today, despite its age.
+Question: where is the colosseum located
+Are follow up questions needed here: No.
+So the final answer is: Rome, Italy ###","[[(False, False)]]"
+Question: when did the berlin wall fall,"Context1: The Berlin Wall: The Berlin Wall was a guarded concrete barrier that physically and ideologically divided Berlin from 1961 to 1989. It is one of the most significant and enduring symbols of the Cold War.
+Question: when did the berlin wall fall
+Are follow up questions needed here: No.
+So the final answer is: 1989 ###","[[(False, False)]]"
+Question: who was cleopatra's roman lover after julius caesar,"Context1: Cleopatra: Cleopatra VII Philopator was the last active ruler of the Ptolemaic Kingdom of Egypt. She is known for her relationships with Roman leaders Julius Caesar and Mark Antony.
+Question: who was cleopatra's roman lover after julius caesar
+Are follow up questions needed here: No.
+So the final answer is: Mark Antony ###","[[(False, False)]]"
+Question: who kills king duncan in macbeth,"Context1: Shakespeare's Macbeth: Macbeth is a tragedy by William Shakespeare about a Scottish general named Macbeth who, encouraged by his wife Lady Macbeth and the prophecies of three witches, murders King Duncan and takes the throne of Scotland.
+Question: who kills king duncan in macbeth
+Are follow up questions needed here: No.
+So the final answer is: Macbeth ###","[[(False, False)]]"
+Question: what was mahatma gandhi's method of protest,"Context1: Mahatma Gandhi: Mahatma Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule.
+Question: what was mahatma gandhi's method of protest
+Are follow up questions needed here: No.
+So the final answer is: Nonviolent resistance ###","[[(False, False)]]"
+Question: who founded apple inc.,"Context1: Apple Inc.: Apple Inc. is an American multinational technology company headquartered in Cupertino, California. Founded in April 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, the company designs, develops, and sells consumer electronics, software, and online services.
+Question: who founded apple inc.
+Are follow up questions needed here: No.
+So the final answer is: Steve Jobs, Steve Wozniak, and Ronald Wayne ###","[[(False, False)]]"
+Question: who wrote the lord of the rings,"Context1: The Lord of the Rings: The Lord of the Rings is an epic high-fantasy novel by J.R.R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit but eventually developed into a much larger work.
+Question: who wrote the lord of the rings
+Are follow up questions needed here: No.
+So the final answer is: J.R.R. Tolkien ###","[[(False, False)]]"
+Question: who authored the harry potter books,"Context1: Harry Potter Series: The Harry Potter series is a collection of fantasy novels written by British author J.K. Rowling. The series chronicles the life and trials of a young wizard, Harry Potter, and his friends.
+Question: who authored the harry potter books
+Are follow up questions needed here: No.
+So the final answer is: J.K. Rowling ###","[[(False, False)]]"
+Question: what is leonardo da vinci often called,"Context1: Leonardo da Vinci: Leonardo da Vinci was an Italian polymath whose areas of interest included invention, painting, sculpting, architecture, science, music, and mathematics. He is often referred to as a true 'Renaissance man'.
+Question: what is leonardo da vinci often called
+Are follow up questions needed here: No.
+So the final answer is: A Renaissance man ###","[[(False, False)]]"
+Question: who painted the ceiling of the sistine chapel,"Context1: The Sistine Chapel: The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the Pope, in Vatican City. Its ceiling was painted by the renowned artist Michelangelo.
+Question: who painted the ceiling of the sistine chapel
+Are follow up questions needed here: No.
+So the final answer is: Michelangelo ###","[[(False, False)]]"
+Question: where is stonehenge located,"Context1: Stonehenge: Stonehenge is a prehistoric monument in Wiltshire, England. It consists of a ring of standing stones, with each standing stone around 13 feet high, seven feet wide, and weighing approximately 25 tons.
+Question: where is stonehenge located
+Are follow up questions needed here: No.
+So the final answer is: Wiltshire, England ###","[[(False, False)]]"
+Question: who invented the world wide web,"Context1: World Wide Web: The World Wide Web, commonly known as the Web, is an information system where documents and other web resources are identified by URLs, which may be interlinked by hyperlinks, and are accessible over the Internet. Tim Berners-Lee invented the World Wide Web in 1989.
+Question: who invented the world wide web
+Are follow up questions needed here: No.
+So the final answer is: Tim Berners-Lee ###","[[(False, False)]]"
+Question: who is credited as the author of the odyssey,"Context1: The Odyssey: The Odyssey is an ancient Greek epic poem attributed to the poet Homer. It is one of the two major ancient Greek epic poems attributed to him, the other being the Iliad.
+Question: who is credited as the author of the odyssey
+Are follow up questions needed here: No.
+So the final answer is: Homer ###","[[(False, False)]]"
+Question: how many teams are in the nba,"Context1: The NBA: The National Basketball Association (NBA) is a professional basketball league in North America comprising 30 teams. It is one of the four major professional sports leagues in the United States and Canada.
+Question: how many teams are in the nba
+Are follow up questions needed here: No.
+So the final answer is: 30 ###","[[(False, False)]]"
+Question: who designed the statue of liberty,"Context1: Statue of Liberty: The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor. It was a gift from France to the United States and was designed by French sculptor Frédéric Auguste Bartholdi.
+Question: who designed the statue of liberty
+Are follow up questions needed here: No.
+So the final answer is: Frédéric Auguste Bartholdi ###","[[(False, False)]]"
+Question: what did christopher columbus accomplish,"Context1: Christopher Columbus: Christopher Columbus was an Italian explorer and navigator who completed four voyages across the Atlantic Ocean, opening the way for the widespread European exploration and colonization of the Americas.
+Question: what did christopher columbus accomplish
+Are follow up questions needed here: No.
+So the final answer is: He completed four voyages across the Atlantic Ocean, opening the way for the European exploration and colonization of the Americas. ###","[[(False, False)]]"
+Question: who is the founder of buddhism,"Context1: Buddhism: Buddhism is a nontheistic religion or philosophy that encompasses a variety of traditions, beliefs, and spiritual practices largely based on teachings attributed to the Buddha, meaning ""the awakened one"", an honorific title for Siddhārtha Gautama.
+Question: who is the founder of buddhism
+Are follow up questions needed here: No.
+So the final answer is: Siddhārtha Gautama (the Buddha) ###","[[(False, False)]]"
+Question: which is the oldest of the seven wonders of the ancient world,"Context1: The Seven Wonders of the Ancient World: The Great Pyramid of Giza is the oldest of the Seven Wonders of the Ancient World and the only one to remain largely intact.
+Question: which is the oldest of the seven wonders of the ancient world
+Are follow up questions needed here: No.
+So the final answer is: The Great Pyramid of Giza ###","[[(False, False)]]"
+Question: where are niagara falls located,"Context1: Niagara Falls: Niagara Falls is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the province of Ontario in Canada and the state of New York in the United States.
+Question: where are niagara falls located
+Are follow up questions needed here: No.
+So the final answer is: On the border between Ontario, Canada and New York, USA ###","[[(False, False)]]"
+Question: who founded the red cross,"Context1: The Red Cross: The Red Cross is a humanitarian organization founded by Henry Dunant in 1863 in Switzerland, notable for providing emergency assistance, disaster relief, and education in communities hit by disasters.
+Question: who founded the red cross
+Are follow up questions needed here: No.
+So the final answer is: Henry Dunant ###","[[(False, False)]]"
+Question: who created star wars,"Context1: Star Wars: The Star Wars film series created by George Lucas details the adventures of various characters ""a long time ago in a galaxy far, far away"", involving elements of good and evil, the Force, and Jedi.
+Question: who created star wars
+Are follow up questions needed here: No.
+So the final answer is: George Lucas ###","[[(False, False)]]"
+Question: how many books are in the chronicles of narnia series,"Context1: The Chronicles of Narnia: The Chronicles of Narnia is a series of seven high fantasy novels by C. S. Lewis. The series revolves around the adventures of children in the fictional world of Narnia.
+Question: how many books are in the chronicles of narnia series
+Are follow up questions needed here: No.
+So the final answer is: Seven ###","[[(False, False)]]"
+Question: how many works did mozart compose,"Context1: Wolfgang Amadeus Mozart: Mozart was a prolific and influential composer of the Classical period, composing over 600 works including symphonies, concertos, chamber music, and operas.
+Question: how many works did mozart compose
+Are follow up questions needed here: No.
+So the final answer is: Over 600 works ###","[[(False, False)]]"
+Question: what was the purpose of the great wall of china,"Context1: The Great Wall of China: The Great Wall of China is a series of fortifications that were built across the historical northern borders of China to protect and consolidate territories of Chinese states and empires against various nomadic groups.
+Question: what was the purpose of the great wall of china
+Are follow up questions needed here: No.
+So the final answer is: To protect and consolidate territories against various nomadic groups. ###","[[(False, False)]]"
+Question: who was the first black president of south africa,"Context1: Nelson Mandela: Nelson Mandela was a South African anti-apartheid revolutionary and political leader who served as President of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election.
+Question: who was the first black president of south africa
+Are follow up questions needed here: No.
+So the final answer is: Nelson Mandela ###","[[(False, False)]]"
+Question: where is the golden gate bridge,"Context1: The Golden Gate Bridge: The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide strait connecting San Francisco Bay and the Pacific Ocean. It is located in San Francisco, California.
+Question: where is the golden gate bridge
+Are follow up questions needed here: No.
+So the final answer is: San Francisco, California ###","[[(False, False)]]"
+Question: in which city is the leaning tower located,"Context1: The Leaning Tower of Pisa: The Leaning Tower of Pisa is a freestanding bell tower, of the cathedral of the Italian city of Pisa, known for its nearly four-degree lean.
+Question: in which city is the leaning tower located
+Are follow up questions needed here: No.
+So the final answer is: Pisa ###","[[(False, False)]]"
+Question: what is galileo galilei known for,"Context1: Galileo Galilei: Galileo was an Italian astronomer, physicist, and engineer, sometimes described as a polymath. His achievements include improvements to the telescope and consequent astronomical observations and support for Copernicanism.
+Question: what is galileo galilei known for
+Are follow up questions needed here: No.
+So the final answer is: Improvements to the telescope and support for Copernicanism ###","[[(False, False)]]"
+Question: what is the famous equation from einstein's theory of relativity,"Context1: Einstein's Theory of Relativity: The theory of relativity, proposed by Albert Einstein, includes both the Special and General theories of relativity. The Special theory introduced the famous equation E=mc².
+Question: what is the famous equation from einstein's theory of relativity
+Are follow up questions needed here: No.
+So the final answer is: E=mc² ###","[[(False, False)]]"
+Question: who wrote the three musketeers,"Context1: The Three Musketeers: ""The Three Musketeers"" is a novel written by French author Alexandre Dumas. The book follows d'Artagnan, who leaves home to join the Musketeers of the Guard.
+Question: who wrote the three musketeers
+Are follow up questions needed here: No.
+So the final answer is: Alexandre Dumas ###","[[(False, False)]]"
+Question: when did the american revolution end,"Context1: The American Revolution: The American Revolution was an ideological and colonial revolt which occurred between 1765 and 1783. The American Patriots in the Thirteen Colonies won independence from Great Britain, becoming the United States of America.
+Question: when did the american revolution end
+Are follow up questions needed here: No.
+So the final answer is: 1783 ###","[[(False, False)]]"
+Question: who was the last queen of france before the french revolution,"Context1: Marie Antoinette: Marie Antoinette was the last Queen of France before the French Revolution. She became dauphine of France in May 1770 at age 14 upon her marriage to Louis-Auguste, heir apparent to the French throne.
+Question: who was the last queen of france before the french revolution
+Are follow up questions needed here: No.
+So the final answer is: Marie Antoinette ###","[[(False, False)]]"
+Question: which four presidents are on mount rushmore,"Context1: Mount Rushmore: Mount Rushmore National Memorial is centered around a sculpture carved into the granite face of Mount Rushmore in the Black Hills in Keystone, South Dakota. Sculptor Gutzon Borglum designed the sculpture, which features the 60-foot heads of four United States presidents.
+Question: which four presidents are on mount rushmore
+Are follow up questions needed here: No.
+So the final answer is: George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln ###","[[(False, False)]]"
+Question: what is the main theme of shakespeare's romeo and juliet,"Context1: Shakespeare's Romeo and Juliet: ""Romeo and Juliet"" is a tragedy written by William Shakespeare early in his career about two young star-crossed lovers whose deaths ultimately reconcile their feuding families.
+Question: what is the main theme of shakespeare's romeo and juliet
+Are follow up questions needed here: No.
+So the final answer is: The tragedy of star-crossed lovers ###","[[(False, False)]]"
+Question: what is the first book of the bible,"Context1: The Book of Genesis: The Book of Genesis is the first book of the Hebrew Bible and the Christian Old Testament. It is the narrative of God's creation of the world and the origins of humanity.
+Question: what is the first book of the bible
+Are follow up questions needed here: No.
+So the final answer is: The Book of Genesis ###","[[(False, False)]]"
+Question: when was the wto established,"Context1: World Trade Organization: The World Trade Organization (WTO) is an intergovernmental organization that regulates international trade. It was officially established on January 1, 1995, replacing the General Agreement on Tariffs and Trade (GATT).
+Question: when was the wto established
+Are follow up questions needed here: No.
+So the final answer is: January 1, 1995 ###","[[(False, False)]]"
+Question: how many series of sunflower paintings did van gogh produce,"Context1: Vincent van Gogh's Sunflowers: Sunflowers is the name of two series of still life paintings by Dutch painter Vincent van Gogh. The first series, done in Paris in 1887, and the second set in Arles in 1888 with bright yellow sunflowers.
+Question: how many series of sunflower paintings did van gogh produce
+Are follow up questions needed here: No.
+So the final answer is: Two ###","[[(False, False)]]"
+Question: what is inscribed on the rosetta stone,"Context1: The Rosetta Stone: The Rosetta Stone is a granodiorite stele inscribed with a decree issued at Memphis, Egypt in 196 BC on behalf of King Ptolemy V. The decree appears in three scripts: the upper text is Ancient Egyptian hieroglyphs, the middle portion is Demotic script, and the lowest is Ancient Greek.
+Question: what is inscribed on the rosetta stone
+Are follow up questions needed here: No.
+So the final answer is: A decree issued on behalf of King Ptolemy V. ###","[[(False, False)]]"
+Question: when did the french revolution start,"Context1: The French Revolution: The French Revolution was a period of radical social and political upheaval in France from 1789 to 1799 that had a fundamental impact on French history and on modern world history.
+Question: when did the french revolution start
+Are follow up questions needed here: No.
+So the final answer is: 1789 ###","[[(False, False)]]"
+Question: how many planets are in the solar system,"Context1: Solar System: Our solar system consists of the Sun at its center with eight planets orbiting around it. These planets include Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
+Question: how many planets are in the solar system
+Are follow up questions needed here: No.
+So the final answer is: Eight ###","[[(False, False)]]"
+Question: for what is pablo picasso famous,"Context1: Pablo Picasso: Pablo Picasso was a Spanish painter, sculptor, printmaker, ceramicist and theatre designer who spent most of his adult life in France. Regarded as one of the most influential artists of the 20th century, he is known for co-founding the Cubist movement and his revolutionary artistic style.
+Question: for what is pablo picasso famous
+Are follow up questions needed here: No.
+So the final answer is: Co-founding the Cubist movement and his revolutionary artistic style ###","[[(False, False)]]"
+Question: how many categories are there in the nobel prizes,"Context1: The Nobel Prize: The Nobel Prizes are a set of six international awards given annually in several categories including peace, literature, chemistry, physics, medicine, and economic sciences. 
+Question: how many categories are there in the nobel prizes
+Are follow up questions needed here: No.
+So the final answer is: Six ###","[[(False, False)]]"
+Question: what type of creature is the sphinx of giza,"Context1: The Sphinx of Giza: The Great Sphinx of Giza is a limestone statue of a reclining sphinx, a mythical creature with the body of a lion and the head of a human. It is located on the Giza Plateau on the west bank of the Nile in Giza, Egypt.
+Question: what type of creature is the sphinx of giza
+Are follow up questions needed here: No.
+So the final answer is: A mythical creature with the body of a lion and the head of a human ###","[[(False, False)]]"
+Question: how are french fries prepared,"Context1: French fries: French fries, also known simply as fries, are batonnet or allumette cut deep-fried potatoes. They are prepared by cutting potatoes into even strips and then frying them in oil.
+Question: how are french fries prepared
+Are follow up questions needed here: No.
+So the final answer is: By cutting potatoes into strips and frying them in oil ###","[[(False, False)]]"
+Question: which space agencies participate in the iss,"Context1: The International Space Station: The International Space Station (ISS) is a space station, or a habitable artificial satellite, in low Earth orbit. It is a joint project between five participating space agencies: NASA, Roscosmos, JAXA, ESA, and CSA.
+Question: which space agencies participate in the iss
+Are follow up questions needed here: No.
+So the final answer is: NASA, Roscosmos, JAXA, ESA, and CSA ###","[[(False, False)]]"
+Question: when did the renaissance occur,"Context1: The Renaissance: The Renaissance was a fervent period of European cultural, artistic, political, and economic ""rebirth"" following the Middle Ages. It is generally regarded as taking place from the 14th century to the 17th century.
+Question: when did the renaissance occur
+Are follow up questions needed here: No.
+So the final answer is: From the 14th century to the 17th century ###","[[(False, False)]]"
+Question: when did the irish potato famine occur,"Context1: The Irish Potato Famine: The Great Famine, also known as the Irish Potato Famine, was a period of mass starvation and disease in Ireland from 1845 to 1852. The worst year of the period was 1847, known as ""Black '47.""
+Question: when did the irish potato famine occur
+Are follow up questions needed here: No.
+So the final answer is: From 1845 to 1852 ###","[[(False, False)]]"
+Question: when was pompeii buried,"Context1: Pompeii: Pompeii was an ancient Roman city located in modern-day Italy near Naples. It was buried under 4 to 6 meters of volcanic ash and pumice in the eruption of Mount Vesuvius in 79 AD.
+Question: when was pompeii buried
+Are follow up questions needed here: No.
+So the final answer is: 79 AD ###","[[(False, False)]]"
+Question: which river carved the grand canyon,"Context1: The Grand Canyon: The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. It is known for its visually overwhelming size and intricate and colorful landscape.
+Question: which river carved the grand canyon
+Are follow up questions needed here: No.
+So the final answer is: The Colorado River ###","[[(False, False)]]"
+Question: how many people died in the black death,"Context1: The Black Death: The Black Death was a devastating global epidemic of bubonic plague that struck Europe and Asia in the mid-1300s, killing an estimated 20 million people.
+Question: how many people died in the black death
+Are follow up questions needed here: No.
+So the final answer is: An estimated 20 million people ###","[[(False, False)]]"
+Question: who was the first person to walk on the moon,"Context1: Neil Armstrong: Neil Armstrong was an American astronaut and the first person to walk on the Moon, taking his famous step on July 20, 1969.
+Question: who was the first person to walk on the moon
+Are follow up questions needed here: No.
+So the final answer is: Neil Armstrong ###","[[(False, False)]]"
+Question: what is the structure of dna,"Context1: DNA: Deoxyribonucleic acid (DNA) is a molecule composed of two polynucleotide chains that coil around each other to form a double helix. It is the carrier of genetic information in almost all living organisms.
+Question: what is the structure of dna
+Are follow up questions needed here: No.
+So the final answer is: A double helix ###","[[(False, False)]]"
+Question: how long did the trojan war last,"Context1: The Trojan War: According to ancient Greek history, the Trojan War was waged against the city of Troy by the Achaeans (Greeks) and lasted for ten years. It is one of the famous conflicts depicted in Greek mythology.
+Question: how long did the trojan war last
+Are follow up questions needed here: No.
+So the final answer is: Ten years ###","[[(False, False)]]"
+Question: which films did james cameron direct,"Context1: James Cameron: James Cameron is a Canadian filmmaker known for making science fiction and epic films. He wrote and directed box-office hits such as The Terminator, Aliens, Titanic, and Avatar.
+Question: which films did james cameron direct
+Are follow up questions needed here: No.
+So the final answer is: The Terminator, Aliens, Titanic, and Avatar ###","[[(False, False)]]"
+Question: who carved the moai statues,"Context1: The Moai Statues: The Moai statues are monolithic human figures carved by the Rapa Nui people on Easter Island in Eastern Polynesia, mainly between 1400 and 1650.
+Question: who carved the moai statues
+Are follow up questions needed here: No.
+So the final answer is: The Rapa Nui people ###","[[(False, False)]]"
+Question: what did isaac newton formulate,"Context1: Isaac Newton: Sir Isaac Newton was an English mathematician, physicist, and astronomer who is widely recognized as one of the most influential scientists of all time and a key figure in the scientific revolution. He formulated the laws of motion and universal gravitation.
+Question: what did isaac newton formulate
+Are follow up questions needed here: No.
+So the final answer is: The laws of motion and universal gravitation ###","[[(False, False)]]"
+Question: who does the terracotta army belong to,"Context1: The Terracotta Army: The Terracotta Army is a collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first Emperor of China. The figures were buried with the emperor in 210–209 BCE to protect him in the afterlife.
+Question: who does the terracotta army belong to
+Are follow up questions needed here: No.
+So the final answer is: Qin Shi Huang, the first Emperor of China ###","[[(False, False)]]"
+Question: where is the hollywood walk of fame located,"Context1: Hollywood Walk of Fame: The Hollywood Walk of Fame is an internationally recognized Hollywood icon and one of LA's more famous tourist attractions. The stars on the Walk of Fame are embedded in the sidewalks along 15 blocks of Hollywood Boulevard and three blocks of Vine Street.
+Question: where is the hollywood walk of fame located
+Are follow up questions needed here: No.
+So the final answer is: Along Hollywood Boulevard and Vine Street ###","[[(False, False)]]"
+Question: when did the wright flyer make its first flight,"Context1: The Wright Flyer: The Wright Flyer was the first successful powered aircraft, designed and built by the Wright brothers. It made its first flight on December 17, 1903, near Kitty Hawk, North Carolina.
+Question: when did the wright flyer make its first flight
+Are follow up questions needed here: No.
+So the final answer is: December 17, 1903 ###","[[(False, False)]]"
+Question: where is the kuala lumpur tower located,"Context1: Kuala Lumpur Tower: The Kuala Lumpur Tower is a communications tower located in Kuala Lumpur, Malaysia. It is the seventh tallest freestanding tower in the world and the tallest in Southeast Asia.
+Question: where is the kuala lumpur tower located
+Are follow up questions needed here: No.
+So the final answer is: Kuala Lumpur, Malaysia ###","[[(False, False)]]"
+Question: who invented dynamite,"Context1: Alfred Nobel: Alfred Nobel was a Swedish chemist, engineer, inventor, and philanthropist who is best known for inventing dynamite and for his will, which established the Nobel Prizes.
+Question: who invented dynamite
+Are follow up questions needed here: No.
+So the final answer is: Alfred Nobel ###","[[(False, False)]]"
+Question: to which goddess was the parthenon dedicated,"Context1: The Parthenon: The Parthenon is a former temple on the Athenian Acropolis, Greece, dedicated to the goddess Athena, whom the people of Athens considered their patroness.
+Question: to which goddess was the parthenon dedicated
+Are follow up questions needed here: No.
+So the final answer is: Athena ###","[[(False, False)]]"
+Question: what type of novels is agatha christie famous for,"Context1: Agatha Christie: Agatha Christie was an English writer known for her 66 detective novels and 14 short story collections, particularly those revolving around her fictional detectives Hercule Poirot and Miss Marple.
+Question: what type of novels is agatha christie famous for
+Are follow up questions needed here: No.
+So the final answer is: Detective novels ###","[[(False, False)]]"
+Question: what field was stephen hawking known for,"Context1: Stephen Hawking: Stephen Hawking was an English theoretical physicist and cosmologist whose work on black holes and theoretical predictions about the universe's beginnings have made profound impacts on the field of cosmology.
+Question: what field was stephen hawking known for
+Are follow up questions needed here: No.
+So the final answer is: Cosmology ###","[[(False, False)]]"
+Question: when was the juno spacecraft launched,"Context1: The Juno spacecraft: Launched by NASA on August 5, 2011, the Juno spacecraft is a space probe currently orbiting Jupiter, aiming to study the planet's composition, gravity field, magnetic field, and polar magnetosphere.
+Question: when was the juno spacecraft launched
+Are follow up questions needed here: No.
+So the final answer is: August 5, 2011 ###","[[(False, False)]]"
+Question: how often are the winter olympics held,"Context1: The Winter Olympics: The Winter Olympic Games are a major international sporting event held once every four years for sports practiced on snow and ice.
+Question: how often are the winter olympics held
+Are follow up questions needed here: No.
+So the final answer is: Every four years ###","[[(False, False)]]"
+Question: what is frida kahlo known for,"Context1: Frida Kahlo: Frida Kahlo was a Mexican painter known for her many portraits, self-portraits, and works inspired by the nature and artifacts of Mexico. She is widely revered as an icon of Mexican culture.
+Question: what is frida kahlo known for
+Are follow up questions needed here: No.
+So the final answer is: Portraits, self-portraits, and works inspired by the nature and artifacts of Mexico ###","[[(False, False)]]"
+Question: which films did christopher nolan direct,"Context1: Christopher Nolan: Christopher Nolan is a British-American filmmaker known for his distinctive and unconventional narrative style, often exploring philosophical and scientific themes. He has directed films like Inception, The Dark Knight Trilogy, and Interstellar.
+Question: which films did christopher nolan direct
+Are follow up questions needed here: No.
+So the final answer is: Inception, The Dark Knight Trilogy, and Interstellar ###","[[(False, False)]]"
+Question: what is another name for the jazz age,"Context1: The Jazz Age: The Jazz Age was a period in the 1920s in which jazz music and dance styles became widely popular in the United States. This era is often referred to as ""The Roaring Twenties"".
+Question: what is another name for the jazz age
+Are follow up questions needed here: No.
+So the final answer is: The Roaring Twenties ###","[[(False, False)]]"
+Question: what missions did the saturn v rocket launch,"Context1: The Saturn V rocket: The Saturn V rocket was an American human-rated expendable rocket used by NASA between 1967 and 1973. The Saturn V was used to launch Apollo missions to the Moon.
+Question: what missions did the saturn v rocket launch
+Are follow up questions needed here: No.
+So the final answer is: Apollo missions to the Moon ###","[[(False, False)]]"
+Question: what is the largest tropical rainforest in the world,"Context1: The Amazon Rainforest: The Amazon Rainforest, also known as Amazonia, is a moist broadleaf forest in the Amazon biome that covers most of the Amazon basin of South America. It is the largest tropical rainforest in the world.
+Question: what is the largest tropical rainforest in the world
+Are follow up questions needed here: No.
+So the final answer is: The Amazon Rainforest ###","[[(False, False)]]"
+Question: between which two countries was the cold war primarily fought,"Context1: The Cold War: The Cold War was a period of geopolitical tension between the Soviet Union and the United States and their respective allies, the Eastern Bloc and the Western Bloc, after World War II.
+Question: between which two countries was the cold war primarily fought
+Are follow up questions needed here: No.
+So the final answer is: The Soviet Union and the United States ###","[[(False, False)]]"
+Question: what is rembrandt considered one of the greatest in,"Context1: Rembrandt: Rembrandt Harmenszoon van Rijn, usually referred to as Rembrandt, was a Dutch draughtsman, painter, and printmaker. He is generally considered one of the greatest visual artists in the history of art and the most important in Dutch art history.
+Question: what is rembrandt considered one of the greatest in
+Are follow up questions needed here: No.
+So the final answer is: Visual artists in the history of art ###","[[(False, False)]]"
+Question: when did apollo 11 land on the moon,"Context1: The Apollo 11 mission: Apollo 11 was the spaceflight that first landed humans on the Moon, commanded by Neil Armstrong, who made the monumental ""one small step for man, one giant leap for mankind"" on July 20, 1969.
+Question: when did apollo 11 land on the moon
+Are follow up questions needed here: No.
+So the final answer is: July 20, 1969 ###","[[(False, False)]]"
+Question: where is machu picchu located,"Context1: Machu Picchu: Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a mountain ridge above the Sacred Valley. It is famous for its archeological significance and breathtaking views.
+Question: where is machu picchu located
+Are follow up questions needed here: No.
+So the final answer is: In the Eastern Cordillera of southern Peru ###","[[(False, False)]]"
+Question: how long was the titanic,"Context1: The Titanic's Length: The RMS Titanic was approximately 882 feet 9 inches long and it was the largest ship afloat at the time she entered service in 1912.
+Question: how long was the titanic
+Are follow up questions needed here: No.
+So the final answer is: Approximately 882 feet 9 inches ###","[[(False, False)]]"
+Question: who wrote the canterbury tales,"Context1: The Canterbury Tales: ""The Canterbury Tales"" is a collection of 24 stories that runs to over 17,000 lines written in Middle English by Geoffrey Chaucer in the late 14th century.
+Question: who wrote the canterbury tales
+Are follow up questions needed here: No.
+So the final answer is: Geoffrey Chaucer ###","[[(False, False)]]"
+Question: when was the suez canal opened,"Context1: The Suez Canal: The Suez Canal is a man-made sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea through the Isthmus of Suez. It was opened in November 1869.
+Question: when was the suez canal opened
+Are follow up questions needed here: No.
+So the final answer is: November 1869 ###","[[(False, False)]]"
+Question: which movement was claude monet associated with,"Context1: Impressionist Movement: Claude Monet was a key figure in the Impressionist movement, which sought to capture the effects of sunlight and the atmosphere in his landscape paintings.
+Question: which movement was claude monet associated with
+Are follow up questions needed here: No.
+So the final answer is: Impressionist movement ###","[[(False, False)]]"
+Question: how often are the olympic games held,"Context1: The Olympics: The Olympic Games are leading international sporting events featuring summer and winter sports competitions. They are held every four years, with the Summer and Winter Olympics alternating every two years in their four-year cycle.
+Question: how often are the olympic games held
+Are follow up questions needed here: No.
+So the final answer is: Every four years ###","[[(False, False)]]"
+Question: what famous painting is on the sistine chapel ceiling,"Context1: The Sistine Chapel's Ceiling: Michelangelo's painting on the Sistine Chapel ceiling includes some of the most famous paintings in Western art, such as The Creation of Adam, painted between 1508 and 1512.
+Question: what famous painting is on the sistine chapel ceiling
+Are follow up questions needed here: No.
+So the final answer is: The Creation of Adam ###","[[(False, False)]]"
+Question: why does the leaning tower of pisa tilt,"Context1: The Leaning Tower of Pisa's Tilt: The Leaning Tower of Pisa is tilted due to an unstable foundation. This tilt has been partially corrected during restoration work but the tower still leans at an angle today.
+Question: why does the leaning tower of pisa tilt
+Are follow up questions needed here: No.
+So the final answer is: Due to an unstable foundation ###","[[(False, False)]]"
+Question: what is mahatma gandhi famous for,"Context1: Mohandas Gandhi: Mohandas Karamchand Gandhi, known as Mahatma Gandhi, led India to independence and inspired movements for civil rights and freedom across the world. He is notably famous for his philosophy of nonviolent protest.
+Question: what is mahatma gandhi famous for
+Are follow up questions needed here: No.
+So the final answer is: For leading India to independence and his philosophy of nonviolent protest ###","[[(False, False)]]"
+Question: what is the longest mountain range in the world,"Context1: The South American Andes: The Andes is the longest continental mountain range in the world, forming a continuous highland along the western edge of South America.
+Question: what is the longest mountain range in the world
+Are follow up questions needed here: No.
+So the final answer is: The Andes ###","[[(False, False)]]"
+Question: when was the universal declaration of human rights adopted,"Context1: The Human Rights Declaration: The Universal Declaration of Human Rights was adopted by the United Nations General Assembly on December 10, 1948. It states the fundamental rights and freedoms to which all humans are entitled.
+Question: when was the universal declaration of human rights adopted
+Are follow up questions needed here: No.
+So the final answer is: December 10, 1948 ###","[[(False, False)]]"
+Question: what famous museum is in paris,"Context1: The Louvre Museum: The Louvre is a historic monument in Paris, France, and is the world's largest art museum. It houses many well-known pieces of art, including the Mona Lisa by Leonardo da Vinci.
+Question: what famous museum is in paris
+Are follow up questions needed here: No.
+So the final answer is: The Louvre ###","[[(False, False)]]"
+Question: how many people could the colosseum seat,"Context1: The Roman Colosseum's Capacity: The Colosseum in Rome could hold, it is estimated, between 50,000 and 80,000 spectators, depending on how many were expected and how they were seated.
+Question: how many people could the colosseum seat
+Are follow up questions needed here: No.
+So the final answer is: Between 50,000 and 80,000 spectators ###","[[(False, False)]]"
+Question: when was the panama canal officially opened,"Context1: The Panama Canal: The Panama Canal, which connects the Atlantic Ocean to the Pacific Ocean, is a key conduit for international maritime trade. It was officially opened on August 15, 1914.
+Question: when was the panama canal officially opened
+Are follow up questions needed here: No.
+So the final answer is: August 15, 1914 ###","[[(False, False)]]"
+Question: where does the blue nile originate,"Context1: The Blue Nile: The Blue Nile is a river originating at Lake Tana in Ethiopia. It is one of the two major tributaries of the Nile River, the other being the White Nile.
+Question: where does the blue nile originate
+Are follow up questions needed here: No.
+So the final answer is: Lake Tana, Ethiopia ###","[[(False, False)]]"
+Question: when was the rosetta spacecraft launched,"Context1: The Rosetta Mission: The Rosetta spacecraft was a space probe built by the European Space Agency launched on 2 March 2004. Its mission was to study comet 67P/Churyumov–Gerasimenko.
+Question: when was the rosetta spacecraft launched
+Are follow up questions needed here: No.
+So the final answer is: 2 March 2004 ###","[[(False, False)]]"
+Question: when was shakespeare's othello written,"Context1: Shakespeare's Othello: ""Othello"" is a tragedy by William Shakespeare, believed to have been written in 1603. It tells the story of Othello, a Moorish general in the Venetian army, and his unfaithful ensign, Iago.
+Question: when was shakespeare's othello written
+Are follow up questions needed here: No.
+So the final answer is: 1603 ###","[[(False, False)]]"
+Question: what is the largest ocean,"Context1: The Pacific Ocean: The Pacific Ocean is the largest and deepest of Earth's oceanic divisions, extending from the Arctic Ocean in the north to the Southern Ocean in the south and is bounded by Asia and Australia.
+Question: what is the largest ocean
+Are follow up questions needed here: No.
+So the final answer is: The Pacific Ocean ###","[[(False, False)]]"
+Question: when did the hindenburg disaster take place,"Context1: The Hindenburg Disaster: The Hindenburg disaster occurred on May 6, 1937, when the German passenger airship LZ 129 Hindenburg caught fire and was destroyed during its attempt to dock with its mooring mast at Naval Air Station Lakehurst in Manchester Township, New Jersey, United States.
+Question: when did the hindenburg disaster take place
+Are follow up questions needed here: No.
+So the final answer is: May 6, 1937 ###","[[(False, False)]]"
+Question: how long did the french and indian war last,"Context1: The French and Indian War: The French and Indian War was the North American theater of the worldwide Seven Years' War. It lasted from 1754 to 1763 and was fought between the colonies of British America and New France.
+Question: how long did the french and indian war last
+Are follow up questions needed here: No.
+So the final answer is: From 1754 to 1763 ###","[[(False, False)]]"
+Question: what two countries does the ganges river flow through,"Context1: The Ganges River: The Ganges flows through India and Bangladesh. It is one of the most sacred rivers to Hindus and has been a lifeline to millions of people living in its basin for thousands of years.
+Question: what two countries does the ganges river flow through
+Are follow up questions needed here: No.
+So the final answer is: India and Bangladesh ###","[[(False, False)]]"
+Question: where is the great barrier reef located,"Context1: The Great Barrier Reef: The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers. It is located in the Coral Sea, off the coast of Queensland, Australia.
+Question: where is the great barrier reef located
+Are follow up questions needed here: No.
+So the final answer is: Off the coast of Queensland, Australia ###","[[(False, False)]]"
+Question: who wrote pride and prejudice,"Context1: Jane Austen: Jane Austen was an English novelist known primarily for her six major novels, which interpret, critique, and comment upon the British landed gentry at the end of the 18th century. Her books include ""Pride and Prejudice"" and ""Sense and Sensibility"".
+Question: who wrote pride and prejudice
+Are follow up questions needed here: No.
+So the final answer is: Jane Austen ###","[[(False, False)]]"
+Question: when did world war i start and end,"Context1: The First World War: World War I, also known as the First World War or the Great War, was a global war originating in Europe that lasted from 1914 to 1918.
+Question: when did world war i start and end
+Are follow up questions needed here: No.
+So the final answer is: Started in 1914 and ended in 1918 ###","[[(False, False)]]"
+Question: who is credited with inventing the telephone,"Context1: The Invention of the Telephone: Alexander Graham Bell is credited with inventing the first practical telephone. The telephone emerged as a result of his experiments aimed at improving the telegraph system.
+Question: who is credited with inventing the telephone
+Are follow up questions needed here: No.
+So the final answer is: Alexander Graham Bell ###","[[(False, False)]]"
+Question: when did d-day occur,"Context1: D-Day: D-Day refers to the Allied landings in Normandy, France, on June 6, 1944, during World War II. It marked the beginning of the end of Nazi occupation in Western Europe.
+Question: when did d-day occur
+Are follow up questions needed here: No.
+So the final answer is: June 6, 1944 ###","[[(False, False)]]"
+Question: what is the length of the amazon river,"Context1: The Amazon River: The Amazon River in South America is the largest river by discharge volume of water in the world. It spans about 4,000 miles from its source to its mouth.
+Question: what is the length of the amazon river
+Are follow up questions needed here: No.
+So the final answer is: About 4,000 miles ###","[[(False, False)]]"
+Question: who built the taj mahal,"Context1: The Taj Mahal: The Taj Mahal, located in Agra, India, is a white marble mausoleum built by Emperor Shah Jahan in memory of his favorite wife, Mumtaz Mahal.
+Question: who built the taj mahal
+Are follow up questions needed here: No.
+So the final answer is: Emperor Shah Jahan ###","[[(False, False)]]"
+Question: where is the french open held,"Context1: The French Open: The French Open is a major tennis tournament held over two weeks at the Stade Roland-Garros in Paris, France. It is the premier clay court tennis championship event in the world and the second of the four annual Grand Slam tournaments.
+Question: where is the french open held
+Are follow up questions needed here: No.
+So the final answer is: Stade Roland-Garros, Paris, France ###","[[(False, False)]]"
+Question: where was the great library of alexandria located,"Context1: The Library of Alexandria: The Great Library of Alexandria was one of the largest and most significant libraries of the ancient world, located in the Egyptian city of Alexandria. It was dedicated to the Muses, the nine goddesses of the arts.
+Question: where was the great library of alexandria located
+Are follow up questions needed here: No.
+So the final answer is: In Alexandria, Egypt ###","[[(False, False)]]"
+Question: when was yellowstone national park established,"Context1: Yellowstone National Park: Yellowstone National Park, established in 1872, was the first national park in the U.S. and is widely held to be the first national park in the world. It spans parts of Wyoming, Montana, and Idaho.
+Question: when was yellowstone national park established
+Are follow up questions needed here: No.
+So the final answer is: 1872 ###","[[(False, False)]]"
+Question: what is nikola tesla known for,"Context1: Nikola Tesla: Nikola Tesla was a Serbian-American inventor and engineer who is best known for his contributions to the design of the modern alternating current (AC) electricity supply system.
+Question: what is nikola tesla known for
+Are follow up questions needed here: No.
+So the final answer is: Contributions to the design of the modern alternating current (AC) electricity supply system ###","[[(False, False)]]"
+Question: what genre is shakespeare's a midsummer night's dream,"Context1: Shakespeare's A Midsummer Night's Dream: ""A Midsummer Night's Dream"" is a comedy written by William Shakespeare in the late 16th century, exploring the theme of love and its complexities through the adventures of four young lovers and a group of amateur actors.
+Question: what genre is shakespeare's a midsummer night's dream
+Are follow up questions needed here: No.
+So the final answer is: Comedy ###","[[(False, False)]]"
+Question: what does the theory of plate tectonics explain,"Context1: Plate Tectonics: The theory of plate tectonics explains the structure and motion of Earth's lithosphere. The theory, which emerged in the mid-20th century, revolutionized the understanding of Earth's geological history.
+Question: what does the theory of plate tectonics explain
+Are follow up questions needed here: No.
+So the final answer is: The structure and motion of Earth's lithosphere ###","[[(False, False)]]"
+Question: what was the han dynasty known as,"Context1: The Han Dynasty: The Han Dynasty was the second imperial dynasty of China, preceded by the Qin dynasty and succeeded by the Three Kingdoms period. It is considered a golden age in Chinese history.
+Question: what was the han dynasty known as
+Are follow up questions needed here: No.
+So the final answer is: A golden age in Chinese history ###","[[(False, False)]]"
+Question: where does the gulf stream originate,"Context1: The Gulf Stream: The Gulf Stream is a powerful, warm, and swift Atlantic ocean current that originates in the Gulf of Mexico and stretches to the tip of Florida, thereafter flowing along the eastern coastlines of the United States and Newfoundland.
+Question: where does the gulf stream originate
+Are follow up questions needed here: No.
+So the final answer is: The Gulf of Mexico ###","[[(False, False)]]"
+Question: who was hatshepsut,"Context1: Hatshepsut: Hatshepsut was the fifth pharaoh of the Eighteenth Dynasty of Egypt. She reigned longer than any other woman of an indigenous Egyptian dynasty, and constructed important buildings and monuments.
+Question: who was hatshepsut
+Are follow up questions needed here: No.
+So the final answer is: The fifth pharaoh of the Eighteenth Dynasty of Egypt ###","[[(False, False)]]"
+Question: how long were the hostages held during the iran hostage crisis,"Context1: The Iranian Hostage Crisis: The Iran hostage crisis was a diplomatic standoff between the United States and Iran, where 52 American diplomats and citizens were held hostage for 444 days from November 4, 1979, to January 20, 1981.
+Question: how long were the hostages held during the iran hostage crisis
+Are follow up questions needed here: No.
+So the final answer is: 444 days ###","[[(False, False)]]"
+Question: how many works did mozart compose,"Context1: Wolfgang Amadeus Mozart: Mozart was a prolific composer of the Classical era, born in Salzburg. He composed more than 600 works, many of which are acknowledged as pinnacles of symphonic, concertante, chamber, operatic, and choral music.
+Question: how many works did mozart compose
+Are follow up questions needed here: No.
+So the final answer is: More than 600 works ###","[[(False, False)]]"
+Question: where was the titanic built,"Context1: The Titanic Construction: The Titanic was constructed at the Harland and Wolff shipyard in Belfast. The shipbuilding company was commissioned by the White Star Line to build three Olympic-class ocean liners.
+Question: where was the titanic built
+Are follow up questions needed here: No.
+So the final answer is: Harland and Wolff shipyard in Belfast ###","[[(False, False)]]"
+Question: during whose leadership was the parthenon constructed,"Context1: Parthenon Construction: The Parthenon was built in the mid-5th century BC during the leadership of Pericles and is considered the centerpiece of Athenian democracy and ancient Greek architecture.
+Question: during whose leadership was the parthenon constructed
+Are follow up questions needed here: No.
+So the final answer is: Pericles ###","[[(False, False)]]"
+Question: when did homo sapiens evolve,"Context1: Homo sapiens: Homo sapiens are the only extant human species and are characterized by the development of complex tools, art, and language, evolving around 300,000 years ago in Africa.
+Question: when did homo sapiens evolve
+Are follow up questions needed here: No.
+So the final answer is: Around 300,000 years ago ###","[[(False, False)]]"
+Question: what was the manhattan project,"Context1: The Manhattan Project: The Manhattan Project was a research and development undertaking during World War II that produced the first nuclear weapons. It was led by the United States with the support of the United Kingdom and Canada.
+Question: what was the manhattan project
+Are follow up questions needed here: No.
+So the final answer is: A research and development undertaking that produced the first nuclear weapons ###","[[(False, False)]]"
+Question: how did icarus and his father daedalus attempt to escape from crete,"Context1: Icarus and Daedalus: In Greek mythology, Icarus and his father Daedalus attempt to escape from Crete by means of wings that his father constructed from feathers and wax.
+Question: how did icarus and his father daedalus attempt to escape from crete
+Are follow up questions needed here: No.
+So the final answer is: With wings made of feathers and wax ###","[[(False, False)]]"
+Question: what is the largest animal known to have ever existed,"Context1: The Blue Whale: The Blue Whale is the largest animal known to have ever existed. It is a marine mammal belonging to the baleen whale parvorder Mysticeti and can grow to lengths of over 30 meters (98 feet).
+Question: what is the largest animal known to have ever existed
+Are follow up questions needed here: No.
+So the final answer is: The Blue Whale ###","[[(False, False)]]"
+Question: what does geoengineering aim to do,"Context1: Geoengineering: Geoengineering refers to the deliberate large-scale intervention in the Earth's climate system to counteract climate change. Approaches include carbon dioxide removal and solar radiation management.
+Question: what does geoengineering aim to do
+Are follow up questions needed here: No.
+So the final answer is: To counteract climate change through deliberate large-scale interventions ###","[[(False, False)]]"
+Question: when did the california gold rush start,"Context1: The Gold Rush: The California Gold Rush began on January 24, 1848, when gold was found by James W. Marshall at Sutter's Mill in Coloma, California. It brought approximately 300,000 people to California from the rest of the U.S. and abroad.
+Question: when did the california gold rush start
+Are follow up questions needed here: No.
+So the final answer is: January 24, 1848 ###","[[(False, False)]]"
+Question: what is the curie temperature,"Context1: The Curie Temperature: The Curie temperature is the temperature above which certain materials lose their permanent magnetic properties to become paramagnetic. It is named after Pierre Curie, who discovered the law for magnetic susceptibility.
+Question: what is the curie temperature
+Are follow up questions needed here: No.
+So the final answer is: The temperature above which materials lose permanent magnetic properties and become paramagnetic ###","[[(False, False)]]"
+Question: who wrote the hunchback of notre-dame,"Context1: The Hunchback of Notre-Dame: ""The Hunchback of Notre-Dame"" is a French Gothic novel by Victor Hugo, published in 1831, set in the late 15th century in Paris.
+Question: who wrote the hunchback of notre-dame
+Are follow up questions needed here: No.
+So the final answer is: Victor Hugo ###","[[(False, False)]]"
+Question: what is louis pasteur known for,"Context1: Louis Pasteur: Louis Pasteur was a French biologist, microbiologist, and chemist renowned for his discoveries of the principles of vaccination, microbial fermentation, and pasteurization.
+Question: what is louis pasteur known for
+Are follow up questions needed here: No.
+So the final answer is: Discoveries of the principles of vaccination, microbial fermentation, and pasteurization ###","[[(False, False)]]"
+Question: where is silicon valley located,"Context1: Silicon Valley: Silicon Valley is a region in the southern part of the San Francisco Bay Area, known for its high concentration of tech companies and tech startups. It serves as the global center for technology and innovation.
+Question: where is silicon valley located
+Are follow up questions needed here: No.
+So the final answer is: Southern part of the San Francisco Bay Area ###","[[(False, False)]]"
+Question: who were the brothers grimm,"Context1: The Brother's Grimm: The Brothers Grimm, Jacob and Wilhelm, were German academics, philologists, cultural researchers, lexicographers, and authors who collected and published folklore during the 19th century.
+Question: who were the brothers grimm
+Are follow up questions needed here: No.
+So the final answer is: German academics and authors who collected and published folklore ###","[[(False, False)]]"
+Question: what is modernism,"Context1: Modernism: Modernism was a cultural movement that emerged in the late 19th and early 20th centuries, characterized by a deliberate departure from tradition and the use of innovative forms of expression.
+Question: what is modernism
+Are follow up questions needed here: No.
+So the final answer is: A cultural movement characterized by a deliberate departure from tradition and innovative forms of expression ###","[[(False, False)]]"
+Question: what is the purpose of the united nations,"Context1: The United Nations: The United Nations (UN) is an intergovernmental organization aiming to maintain international peace and security, develop friendly relations among nations, achieve international cooperation, and be a center for harmonizing the actions of nations.
+Question: what is the purpose of the united nations
+Are follow up questions needed here: No.
+So the final answer is: To maintain international peace and security, develop friendly relations among nations, and achieve international cooperation ###","[[(False, False)]]"
+Question: what was the expulsion of the acadians,"Context1: The Expulsion of the Acadians: The Expulsion of the Acadians, also known as the Great Upheaval, occurred during the French and Indian War when British forces deported the Acadians from the present-day Canadian Maritime provinces.
+Question: what was the expulsion of the acadians
+Are follow up questions needed here: No.
+So the final answer is: The deportation of the Acadians by British forces during the French and Indian War ###","[[(False, False)]]"
+Question: what did the copernican revolution change,"Context1: The Copernican Revolution: The Copernican Revolution was the paradigm shift from the Ptolemaic model of the heavens, which described Earth at the center of the universe, to the heliocentric model with the sun at the center.
+Question: what did the copernican revolution change
+Are follow up questions needed here: No.
+So the final answer is: It changed the model of the universe from Earth-centered to sun-centered ###","[[(False, False)]]"
+Question: who was the first pilot to exceed the speed of sound,"Context1: Chuck Yeager: Charles Elwood ""Chuck"" Yeager was a United States Air Force officer and flying ace, known for being the first pilot confirmed to have exceeded the speed of sound in level flight.
+Question: who was the first pilot to exceed the speed of sound
+Are follow up questions needed here: No.
+So the final answer is: Chuck Yeager ###","[[(False, False)]]"
+Question: what was feudalism,"Context1: Feudalism: Feudalism was a social system in medieval Europe in which people worked and fought for nobles in exchange for protection and use of land.
+Question: what was feudalism
+Are follow up questions needed here: No.
+So the final answer is: A social system in medieval Europe where people worked and fought for nobles in exchange for protection and land ###","[[(False, False)]]"
+Question: what was the space race,"Context1: The Space Race: The Space Race was a 20th-century competition between two Cold War rivals, the Soviet Union and the United States, to achieve significant accomplishments in space exploration.
+Question: what was the space race
+Are follow up questions needed here: No.
+So the final answer is: A competition between the Soviet Union and the United States to achieve significant accomplishments in space exploration ###","[[(False, False)]]"
+Question: what is black friday known for,"Context1: Black Friday: Black Friday is the informal name for the Friday following Thanksgiving Day in the United States. It traditionally marks the start of the holiday shopping season with heavily promoted sales.
+Question: what is black friday known for
+Are follow up questions needed here: No.
+So the final answer is: The start of the holiday shopping season with heavily promoted sales ###","[[(False, False)]]"
+Question: what is a crossword puzzle,"Context1: Crossword Puzzle: A crossword puzzle consists of a grid of squares and blanks into which words crossing vertically and horizontally are written according to clues.
+Question: what is a crossword puzzle
+Are follow up questions needed here: No.
+So the final answer is: A grid of squares and blanks where words are written based on clues ###","[[(False, False)]]"
+Question: who fought in the peloponnesian war,"Context1: The Peloponnesian War: The Peloponnesian War was an ancient Greek war fought by Athens against the Peloponnesian League led by Sparta. It lasted from 431 to 404 BC.
+Question: who fought in the peloponnesian war
+Are follow up questions needed here: No.
+So the final answer is: Athens and the Peloponnesian League led by Sparta ###","[[(False, False)]]"
+Question: what was the colossus of rhodes,"Context1: The Colossus of Rhodes: The Colossus of Rhodes was a statue of the sun god Helios, erected in the city of Rhodes, Greece, around 280 BC. It was one of the Seven Wonders of the Ancient World.
+Question: what was the colossus of rhodes
+Are follow up questions needed here: No.
+So the final answer is: A statue of the sun god Helios, one of the Seven Wonders of the Ancient World ###","[[(False, False)]]"
+Question: what are tectonic plates responsible for,"Context1: Plate Tectonics: The Earth's lithosphere is divided into tectonic plates that move over the asthenosphere. Their movements are responsible for the formation of mountains, ocean trenches, and other geological features.
+Question: what are tectonic plates responsible for
+Are follow up questions needed here: No.
+So the final answer is: The formation of mountains, ocean trenches, and other geological features ###","[[(False, False)]]"
+Question: what is democracy,"Context1: Democracy: Democracy is a system of government where the citizens exercise power by voting. It is derived from the Greek word 'dēmokratía', meaning ""rule by the people.""
+Question: what is democracy
+Are follow up questions needed here: No.
+So the final answer is: A system of government where citizens exercise power by voting ###","[[(False, False)]]"
+Question: what is malaria,"Context1: Malaria: Malaria is a mosquito-borne infectious disease affecting humans and other animals, commonly causing symptoms such as fever, fatigue, vomiting, and headaches.
+Question: what is malaria
+Are follow up questions needed here: No.
+So the final answer is: A mosquito-borne infectious disease causing symptoms like fever, fatigue, vomiting, and headaches ###","[[(False, False)]]"
+Question: what was pangaea,"Context1: Pangaea: Pangaea was a supercontinent that existed during the late Paleozoic and early Mesozoic eras. It began to break apart approximately 175 million years ago.
+Question: what was pangaea
+Are follow up questions needed here: No.
+So the final answer is: A supercontinent that began to break apart about 175 million years ago ###","[[(False, False)]]"
+Question: who were the vikings,"Context1: The Vikings: The Vikings were Norse seafarers, mainly from Scandinavia, who raided, traded, explored, and settled across wide areas of Europe during the late 8th to early 11th century.
+Question: who were the vikings
+Are follow up questions needed here: No.
+So the final answer is: Norse seafarers from Scandinavia who raided, traded, explored, and settled across Europe during the late 8th to early 11th century ###","[[(False, False)]]"
+Question: what is photosynthesis,"Context1: Photosynthesis: Photosynthesis is the process used by plants, algae, and certain bacteria to convert light energy into chemical energy stored as glucose. It involves the uptake of carbon dioxide and the release of oxygen.
+Question: what is photosynthesis
+Are follow up questions needed here: No.
+So the final answer is: The process by which plants, algae, and certain bacteria convert light energy into chemical energy stored as glucose ###","[[(False, False)]]"
+Question: what was the silk road,"Context1: The Silk Road: The Silk Road was an ancient network of trade routes that connected the East and West, facilitating not only the exchange of goods like silk, spices, and tea but also cultural, religious, and technological exchanges.
+Question: what was the silk road
+Are follow up questions needed here: No.
+So the final answer is: An ancient network of trade routes connecting the East and West, facilitating trade and exchanges ###","[[(False, False)]]"
+Question: what was the berlin airlift,"Context1: The Berlin Airlift: The Berlin Airlift (1948-1949) was a response by Western Allies to the Soviet blockade of Berlin. They supplied the city with food and fuel from the air, thwarting the Soviet plan to force the Allies out.
+Question: what was the berlin airlift
+Are follow up questions needed here: No.
+So the final answer is: A response to the Soviet blockade of Berlin by supplying food and fuel via air ###","[[(False, False)]]"
+Question: what is the north star,"Context1: The North Star: Polaris, commonly known as the North Star, is located nearly directly above the North Pole and is part of the Ursa Minor constellation. It has been used for navigation for centuries.
+Question: what is the north star
+Are follow up questions needed here: No.
+So the final answer is: Polaris, located nearly directly above the North Pole and part of the Ursa Minor constellation ###","[[(False, False)]]"
+Question: what are logic gates,"Context1: Logic Gates: Logic gates are the basic building blocks of digital circuits. They perform basic logical functions and are the heart of digital systems.
+Question: what are logic gates
+Are follow up questions needed here: No.
+So the final answer is: Basic building blocks of digital circuits that perform logical functions ###","[[(False, False)]]"
+Question: what is adam smith known for,"Context1: Adam Smith: Adam Smith was a Scottish economist and philosopher, best known for his book ""The Wealth of Nations"", regarded as the first modern work of economics. He is often called the ""father of economics"" or the ""father of capitalism"".
+Question: what is adam smith known for
+Are follow up questions needed here: No.
+So the final answer is: Writing ""The Wealth of Nations"" and being considered the father of economics ###","[[(False, False)]]"
+Question: when did the ottoman empire dissolve,"Context1: The Ottoman Empire: The Ottoman Empire was a state that controlled much of Southeast Europe, Western Asia, and North Africa between the 14th and early 20th centuries. It was founded by Osman I and dissolved after World War I.
+Question: when did the ottoman empire dissolve
+Are follow up questions needed here: No.
+So the final answer is: After World War I ###","[[(False, False)]]"
+Question: what is origami,"Context1: Origami: Origami is the art of paper folding, often associated with Japanese culture. It involves transforming a flat square sheet of paper into a finished sculpture through folding techniques.
+Question: what is origami
+Are follow up questions needed here: No.
+So the final answer is: The art of paper folding, associated with Japanese culture ###","[[(False, False)]]"
+Question: what is the genre of shakespeare's twelfth night,"Context1: Shakespeare's Twelfth Night: ""Twelfth Night"" is a comedy by William Shakespeare, believed to have been written around 1601–1602. The play centers on the twins Viola and Sebastian, who are separated in a shipwreck.
+Question: what is the genre of shakespeare's twelfth night
+Are follow up questions needed here: No.
+So the final answer is: Comedy ###","[[(False, False)]]"
+Question: who created the moai statues on easter island,"Context1: The Moai Heads of Easter Island: The moai statues of Easter Island have oversized heads and are scattered across the island, with the largest amount located at Rano Raraku. Created by the Rapa Nui people, they are believed to be representations of deceased ancestors.
+Question: who created the moai statues on easter island
+Are follow up questions needed here: No.
+So the final answer is: The Rapa Nui people ###","[[(False, False)]]"
+Question: who introduced the fibonacci sequence to the western world,"Context1: The Fibonacci Sequence: The Fibonacci sequence is a numerical series where each number is the sum of the two preceding ones, usually starting with 0 and 1. It was introduced to the Western world by Leonardo of Pisa, known as Fibonacci.
+Question: who introduced the fibonacci sequence to the western world
+Are follow up questions needed here: No.
+So the final answer is: Leonardo of Pisa, known as Fibonacci ###","[[(False, False)]]"
+Question: who designed the louvre pyramid,"Context1: The Louvre Pyramid: The Louvre Pyramid is a large glass and metal pyramid designed by the Chinese-American architect I. M. Pei, serving as the main entrance to the Louvre Museum in Paris.
+Question: who designed the louvre pyramid
+Are follow up questions needed here: No.
+So the final answer is: I. M. Pei ###","[[(False, False)]]"
+Question: what was louis armstrong known for,"Context1: Louis Armstrong: Louis Armstrong was an American trumpeter and vocalist who was a fundamental influence in jazz music. He was known for his charismatic stage presence and voice, as well as his innovative musical techniques.
+Question: what was louis armstrong known for
+Are follow up questions needed here: No.
+So the final answer is: Being a fundamental influence in jazz, known for his trumpeting, charismatic stage presence, and innovative techniques ###","[[(False, False)]]"
+Question: what is isaac asimov known for,"Context1: Isaac Asimov: Isaac Asimov was an American author and professor of biochemistry, best known for his works of science fiction and popular science. He wrote the Foundation series and the Robot series.
+Question: what is isaac asimov known for
+Are follow up questions needed here: No.
+So the final answer is: His works of science fiction and popular science, including the Foundation and Robot series ###","[[(False, False)]]"
+Question: what caused the black death,"Context1: The Black Death in Europe: The Black Death arrived in Europe in 1347, decimating the population and profoundly affecting the course of European history. It was caused by the Yersinia pestis bacterium.
+Question: what caused the black death
+Are follow up questions needed here: No.
+So the final answer is: The Yersinia pestis bacterium ###","[[(False, False)]]"
+Question: who invented the compound microscope,"Context1: The invention of the microscope: The invention of the compound microscope is credited to Dutch spectacle makers, Zacharias Janssen and his son Hans Janssen, in the late 16th century.
+Question: who invented the compound microscope
+Are follow up questions needed here: No.
+So the final answer is: Zacharias Janssen and his son Hans Janssen ###","[[(False, False)]]"
+Question: what is the black hole information paradox,"Context1: The Black Hole Information Paradox: The black hole information paradox is a puzzle resulting from the combination of quantum mechanics and general relativity. It questions what happens to information if an object falls into a black hole, since general relativity suggests information is lost while quantum mechanics suggests it's preserved.
+Question: what is the black hole information paradox
+Are follow up questions needed here: No.
+So the final answer is: A puzzle questioning what happens to information if an object falls into a black hole, due to conflicting views from quantum mechanics and general relativity ###","[[(False, False)]]"
+Question: what does the periodic table organize,"Context1: The Periodic Table: The periodic table is an arrangement of chemical elements, organized by their atomic number, electron configuration, and recurring chemical properties. The table is structured to show periodic trends and elemental similarities.
+Question: what does the periodic table organize
+Are follow up questions needed here: No.
+So the final answer is: Chemical elements, organized by atomic number, electron configuration, and recurring chemical properties ###","[[(False, False)]]"
+Question: what was marie curie's scientific contribution,"Context1: Marie Curie: Marie Curie was a Polish-born physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two scientific fields (Physics and Chemistry).
+Question: what was marie curie's scientific contribution
+Are follow up questions needed here: No.
+So the final answer is: Pioneering research on radioactivity ###","[[(False, False)]]"
+Question: what is big ben,"Context1: Big Ben: Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London. The clock tower itself is now called the Elizabeth Tower.
+Question: what is big ben
+Are follow up questions needed here: No.
+So the final answer is: The nickname for the Great Bell of the clock at the Palace of Westminster in London ###","[[(False, False)]]"
+Question: who is considered the father of chinese historiography,"Context1: Sima Qian: Sima Qian was a Chinese historian of the early Han dynasty. He is considered the father of Chinese historiography for his work, ""Records of the Grand Historian"" (Shiji), a comprehensive history of China covering over two thousand years.
+Question: who is considered the father of chinese historiography
+Are follow up questions needed here: No.
+So the final answer is: Sima Qian ###","[[(False, False)]]"
+Question: what was the spanish armada,"Context1: The Spanish Armada: The Spanish Armada was a fleet of ships sent by Spain in 1588 to invade England. It consisted of 130 ships manned by approximately 8,000 sailors and 18,000 soldiers.
+Question: what was the spanish armada
+Are follow up questions needed here: No.
+So the final answer is: A fleet of ships sent by Spain in 1588 to invade England ###","[[(False, False)]]"
+Question: what is the nobel peace prize awarded for,"Context1: The Nobel Peace Prize: The Nobel Peace Prize is one of the five Nobel Prizes established by the will of Alfred Nobel. It is awarded to individuals or organizations that have made significant contributions to the promotion of peace.
+Question: what is the nobel peace prize awarded for
+Are follow up questions needed here: No.
+So the final answer is: Significant contributions to the promotion of peace ###","[[(False, False)]]"
+Question: where was the indus valley civilization located,"Context1: The Indus Valley Civilization: The Indus Valley Civilization was one of the world's oldest urban civilizations, located in present-day Pakistan and northwest India. Known for its advanced cities with well-planned streets and cities.
+Question: where was the indus valley civilization located
+Are follow up questions needed here: No.
+So the final answer is: Present-day Pakistan and northwest India ###","[[(False, False)]]"
+Question: what was the age of enlightenment,"Context1: The Age of Enlightenment: The Age of Enlightenment, also known as the Age of Reason, was an intellectual and philosophical movement that dominated the world of ideas in Europe during the 18th century, centered around reason, science, and individualism.
+Question: what was the age of enlightenment
+Are follow up questions needed here: No.
+So the final answer is: An intellectual and philosophical movement centered around reason, science, and individualism ###","[[(False, False)]]"
+Question: what is the magna carta,"Context1: The Magna Carta: The Magna Carta, signed in 1215, is a charter of liberties agreed to by King John of England. It made the king subject to the law and is considered foundational to modern legal systems.
+Question: what is the magna carta
+Are follow up questions needed here: No.
+So the final answer is: A charter of liberties that made the king subject to the law ###","[[(False, False)]]"
+Question: how long did the renaissance last,"Context1: The Renaissance: The Renaissance was a period of great cultural change and achievement from the 14th to the 17th century, characterized by advances in art, literature, science, and a renewed interest in the classical knowledge of Greece and Rome.
+Question: how long did the renaissance last
+Are follow up questions needed here: No.
+So the final answer is: From the 14th to the 17th century ###","[[(False, False)]]"
+Question: who was the first european to set foot on continental north america,"Context1: Leif Erikson: Leif Erikson was a Norse explorer from Iceland, thought to have been the first European to have set foot on continental North America, before Christopher Columbus. He landed in a place he called Vinland, which is today part of Canada.
+Question: who was the first european to set foot on continental north america
+Are follow up questions needed here: No.
+So the final answer is: Leif Erikson ###","[[(False, False)]]"
+Question: what genre is shakespeare's macbeth,"Context1: Shakespeare's Macbeth: Shakespeare's play ""Macbeth"" is a tragedy about a Scottish general named Macbeth who receives a prophecy from a trio of witches that one day he will become King of Scotland.
+Question: what genre is shakespeare's macbeth
+Are follow up questions needed here: No.
+So the final answer is: Tragedy ###","[[(False, False)]]"
+Question: when did the aztec empire exist,"Context1: The Aztec Empire: The Aztec Empire was a Mesoamerican culture that flourished in central Mexico in the post-classic period from 1300 to 1521. Its capital was Tenochtitlán, located on the site of present-day Mexico City.
+Question: when did the aztec empire exist
+Are follow up questions needed here: No.
+So the final answer is: From 1300 to 1521 ###","[[(False, False)]]"
+Question: when did gandhi's salt march begin,"Context1: Gandhi's Salt March: The Salt March, led by Mahatma Gandhi, was a nonviolent protest against the British salt tax in colonial India that began on March 12, 1930.
+Question: when did gandhi's salt march begin
+Are follow up questions needed here: No.
+So the final answer is: March 12, 1930 ###","[[(False, False)]]"
+Question: how often can halley's comet be seen from earth,"Context1: Halley's Comet: Halley's Comet is a comet that is visible from Earth every 75 to 76 years. It is the only known short-period comet that is visible to the naked eye from Earth, and thus observed by ancient astronomers.
+Question: how often can halley's comet be seen from earth
+Are follow up questions needed here: No.
+So the final answer is: Every 75 to 76 years ###","[[(False, False)]]"
+Question: when did the boston tea party take place,"Context1: The Boston Tea Party: The Boston Tea Party was a political protest by the Sons of Liberty in Boston, Massachusetts, on December 16, 1773, against the British government's tax on tea.
+Question: when did the boston tea party take place
+Are follow up questions needed here: No.
+So the final answer is: December 16 ###","[[(False, False)]]"
