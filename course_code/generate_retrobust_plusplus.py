@@ -97,6 +97,8 @@ if __name__ == "__main__":
     parser.add_argument("--llm_name", type=str, default="scoliono/retrobust_plusplus_f16",
                         choices=[
                                   "scoliono/retrobust_plusplus_f16",
+                                  "scoliono/retrobust_plusplus_3b_f16",
+                                  "scoliono/retrobust_plusplus_combined_3b_f16",
                                 ])
     parser.add_argument("--is_server", action="store_true", default=False,
                         help="Whether we use vLLM deployed on a server or offline inference.")

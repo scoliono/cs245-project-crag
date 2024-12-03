@@ -94,6 +94,9 @@ if __name__ == "__main__":
                                  "TheBloke/Llama-2-13B-chat-AWQ",
                                  "TheBloke/Llama-2-13B-chat-GPTQ",
                                  "scoliono/retrobust_plusplus_f16",
+                                 "scoliono/retrobust_plusplus_3b_f16",
+                                 "scoliono/retrobust_plusplus_combined_3b_f16",
+                                 "unsloth/Llama-3.2-3B-Instruct-bnb-4bit"
                                  ])
 
 
@@ -105,7 +108,10 @@ if __name__ == "__main__":
                                  # can add more llm models here
                                  "TheBloke/Llama-2-13B-chat-AWQ",
                                  "TheBloke/Llama-2-13B-chat-GPTQ",
-                                 "scoliono/retrobust_plusplus_f16",])
+                                 "scoliono/retrobust_plusplus_f16",
+                                 "scoliono/retrobust_plusplus_3b_f16",
+                                 "scoliono/retrobust_plusplus_combined_3b_f16",
+                                 "unsloth/Llama-3.2-3B-Instruct-bnb-4bit"])
 
     parser.add_argument("--is_server", action="store_true", default=False,
                         help="Whether we use vLLM deployed on a server or offline inference.")
