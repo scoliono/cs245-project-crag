@@ -1,10 +1,10 @@
-1_prompt = """
+prompt_top = """
 Given the following question, answer it by providing follow up questions and intermediate answers.
 If intermediate questions are not necessary, answer the question directly.
 You are provided with evidence that can help you arrive at the answer before the question.
 Use the following format (Pay attention to how the '#' are positioned between questions.)
-Do not reuse the sample questions below, but rather generate 1000 new questions 
-Assume the context is given by a TOP RANK retrieval, AKA it is the best retrieval generated, such as the examples below:
+Do not reuse the sample questions below, but rather generate 200 new questions 
+Assume the context is given by a TOP 1 retrieval, AKA it is the best retrieval generated, such as the examples below:
 #
 Context1: <Insert context1>
 Question: <Insert question>
@@ -51,18 +51,14 @@ Question: who played jack sparrow in pirates of the caribbean
 Are follow up questions needed here: No.
 So the final answer is: Johnny Depp
 #
-
 """
 
-
-
-
-10_prompt = """
+prompt_10 = """
 Given the following question, answer it by providing follow up questions and intermediate answers.
 If intermediate questions are not necessary, answer the question directly.
 You are provided with evidence that can help you arrive at the answer before the question.
 Use the following format (Pay attention to how the '#' are positioned between questions.)
-Do not reuse the sample questions below, but rather generate 1000 new questions 
+Do not reuse the sample questions below, but rather generate 200 new questions 
 Assume the context is given by the TOP 10TH retrieval, AKA it is a mediocre retrieval, such as the examples below:
 #
 Context1: <Insert context1>
@@ -118,7 +114,7 @@ Given the following question, answer it by providing follow up questions and int
 If intermediate questions are not necessary, answer the question directly.
 You are provided with evidence that can help you arrive at the answer before the question.
 Use the following format (Pay attention to how the '#' are positioned between questions.)
-Do not reuse the sample questions below, but rather generate 1000 new questions 
+Do not reuse the sample questions below, but rather generate 200 new questions 
 Assume the context is given by a RANDOM RANK retrieval, AKA it might be relevant or irrelevant, such as the examples below:
 #
 Context1: <Insert context1>
@@ -166,5 +162,4 @@ Question: when did the brewers join the national league
 Are follow up questions needed here: No.
 So the final answer is: 1998
 #
-
 """
