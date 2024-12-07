@@ -4,9 +4,9 @@ Our code was designed to run on a Google Cloud VM with at least 4 vCPUs, 15 GB R
 
 # Pipeline Setup + Execution
 
-The end-to-end process of installing dependencies and running the pipeline is found in the `colab_vm.ipynb` notebook. This is the file that gets run on the Google Cloud VM. There are denoted sections in this notebook for running the baseline vanilla + RAG models, and for running our own model (dubbed "RetRobust++" here).
+The end-to-end process of installing dependencies and running the pipeline is found in the `colab_vm.ipynb` notebook. This is the file that gets run on the Google Cloud VM. There are denoted sections in this notebook for running the baseline vanilla + RAG models, and for running our own model (dubbed "RetRobust++" here). You may need to add a secret containing a read-only HuggingFace token so that it can download the Llama base model.
 
-The process of fine-tuning the notebook using Unsloth is covered in the `finetune.ipynb` notebook. You can use a regular Colab session with a GPU runtime for this, as it only takes 40 minutes or so. It can be run in one go, with no need for a persistent filesystem. It assumes you have the CSV files located in the correct paths in your Google Drive account, and the CSVs in question are provided in this folder under `data/`.
+The process of fine-tuning the notebook using Unsloth is covered in the `finetune.ipynb` notebook. You can use a regular Colab session with a GPU runtime for this, as it only takes 40 minutes or so. It can be run in one go, with no need for a persistent filesystem. It assumes you have the CSV files located in the correct paths in your Google Drive account, and the CSVs in question are provided in this folder under `data/`. You will need to set up a write-access HuggingFace token and provide it to the notebook in a secret, so it has some way to upload the model.
 
 The only notable omissions from this notebook are the scripts used to synthesize and prepare fine-tuning data. The scripts are still included as separate Python files, namely `azure_gpt.py`, `cleaning.py`, and `prompt.py`. The exact fine-tuning data that these scripts produced is located under `data/`.
 
