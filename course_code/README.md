@@ -12,7 +12,7 @@ The process of fine-tuning our RAG model using Unsloth is covered in the `finetu
 
 There may also be some unused Python scripts, such as `data_collator.py`, and logic borrowed from the `reasoning-on-cots` repo (https://github.com/oriyor/reasoning-on-cots) from the authors of the RetRobust paper. This is because we attempted to reproduce the RetRobust methods exactly at first, but this code ended up being largely unworkable for us.
 
-# Baseline Comparisons 
+# Prediction Files
 
 Vanilla baseline 1B: `../output/data/vanilla_baseline/Llama-3.2-1B-Instruct`
 
@@ -28,6 +28,6 @@ Our RAG model with only our synthesized training data (3B): `../output/data/retr
 
 Our final RAG model, with our data + NQ + WikiHop + StrategyQA (3B): `../output/data/retrobust_plusplus/retrobust_plusplus_combined_3b_f16`
 
-Comparison of custom models against baselines: 
+# Baseline Comparisons 
 
 ![image](https://github.com/user-attachments/assets/dd4b8452-fbaa-4f77-9e29-55478660b179)
